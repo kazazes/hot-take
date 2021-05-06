@@ -35,7 +35,7 @@
     "moment": "^2.27.0",
     "page-metadata-parser": "^1.1.4",
     "readability": "github:mozilla/readability",
-    "sanitize-html": "^1.27.2",
+    "sanitize-html": "^2.3.2",
     "unfluff": "^3.2.0",
     "valid-url": "^1.0.9",
     "xtend": "^4.0.2"
